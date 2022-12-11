@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data>
+    <student>
+        <ID>0</ID>
+        <name>German</name>
+        <surname>Perelmuter</surname>
+        <age>19</age>
+        <studentID>1</studentID>
+    </student>
+    <student>
+        <ID>1</ID>
+        <name>Arthas</name>
+        <surname>Menethil</surname>
+        <age>30</age>
+        <studentID>2</studentID>
+    </student>
+    <student>
+        <ID>2</ID>
+        <name>Anton</name>
+        <surname>Manishka</surname>
+        <age>20</age>
+        <studentID>3</studentID>
+    </student>
+    <student>
+        <ID>3</ID>
+        <name>Jane</name>
+        <surname>Willson</surname>
+        <age>24</age>
+        <studentID>4</studentID>
+    </student>
+    <student>
+        <ID>4</ID>
+        <name>John</name>
+        <surname>Smith</surname>
+        <age>32</age>
+        <studentID>5</studentID>
+    </student>
+</Data>
